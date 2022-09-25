@@ -1,0 +1,3 @@
+- 👋 Hi, my name is Aleks Aleksandrov
+- 👀 I’m interested in the field of DevOps
+- 🌱 I’m currently learning and preparing for the LPIC-1 exam.
